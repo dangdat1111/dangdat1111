@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Story of My Life 👋
+Đây là tất cả những gì tôi trải qua trên con đường của một lập trình viên <3 tôi yêu nó
+Trên đời này làm gì có đường, chỉ có người ta đi mãi rồi cũng thành đường mà thôi
+Còn trời còn đất còn non nước, không lẽ ta đâu mãi thế này
+10 năm một chặng dường dài, không lẽ ta lại bất tài thế sao
 <!--
 **dangdat1111/dangdat1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
